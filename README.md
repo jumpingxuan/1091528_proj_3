@@ -6,6 +6,7 @@ Tomasulo實作
 
 開始進行程式時，
 先判斷程式是加法還是乘法
+
 1.從queue中issue一個instruction
 檢查對的RS的空間是否還有
 判斷RF中的值版本正不正確，若不正確則從RAT拿
