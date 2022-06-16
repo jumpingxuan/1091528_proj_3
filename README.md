@@ -13,6 +13,7 @@ Tomasulo實作
 
 2.進行execute
 拿到值後，就開始計算instruction的結果
+
 3.write back
 
 計算完後，將值寫入RS、RAT、RF中
